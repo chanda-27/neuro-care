@@ -2,7 +2,7 @@
 
 This project is build for psychology patient and for kids also. We care about your mental and physical health.
 
-## [Live Site Link](https://neuro-care-001.web.app)
+## [Live Site Link](https://neuro-care-001.web.app): https://neuro-care-001.web.app
 
 ## Description
 

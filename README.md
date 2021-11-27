@@ -9,6 +9,7 @@ This project is build for psychology patient and for kids also. We care about yo
 1. It's a Firebase Authentication project where a user can sign up and login with both email/password and Google sign in.
 2. A user can view services in details. Also they can find out our location in maps.
 3. A user must be login for view service details and for sending email.
+4. CSS custom animation, carousel with swiper, and much more interesting things added.
 
 ## Used Packeges
 
